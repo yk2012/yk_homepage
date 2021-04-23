@@ -5,11 +5,10 @@ module.exports = {
   theme: "@vuepress/blog",
   themeConfig: {
     nav: [
-      { text: "主页", link: "/" },
       { text: "博客", link: "/blog/" },
       { text: "随笔", link: "/writing/" },
       { text: "标签", link: "/tag/" },
-      { text: "百度", link: "https://baidu.com" },
+      { text: "阅读", link: "https://weread.qq.com/" },
       { text: "时钟", link: "http://ykang2020.gitee.io/clock/" },
     ],
     directories: [
@@ -28,7 +27,12 @@ module.exports = {
     ],
     siderbar: "auto",
     footer: {
-      contact: [{ type: "github", link: "https://github.com/yk2012" }],
+      contact: [
+        { type: "github", link: "https://github.com/yk2012" },
+        { type: "mail", link: "https://vip.163.com/" },
+        { type: "video", link: "https://www.bilibili.com/" },
+        { type: "web", link: "https://blog.csdn.net/weixin_44972008" },
+      ],
       copyright: [
         { text: "YK菌", link: "https://gitee.com/ykang2020" },
         { text: "YK | Copyright © 2021" },
