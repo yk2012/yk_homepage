@@ -1,25 +1,21 @@
----
-home: true
-heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
-actionLink: /zh/guide/
-features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Copyright © 2018-present Evan You
----
 
+# Hello
+这里是YK菌的个人主页~欢迎访问
 
-# Hello YK
-这是YK菌的个人主页~欢迎访问
+<img src="./.vuepress/public/img/YK菌.jpg" width="100px" >
 
+## 板块介绍
+### 顶部导航区域
+1. 博客模块 日常更新技术博客
+2. 随笔模块 更新日常随笔
+3. 文摘模块 更新读书摘要与笔记
+4. 标签模块 所有文章分类
+5. 外链：微信读书 + 个人浏览器时钟
 
-<img src="https://raw.githubusercontent.com/yk2012/image-yk/master/20210422/YK菌.kpl2nkte2z4.jpg" width="100px" />
-
-
+### 尾部导航+版权区域
+1. GitHub主页
+2. 邮箱（只是首页）
+3. Bilibili空间
+4. CSDN主页
+5. Gitee主页
+6. 版权声明
