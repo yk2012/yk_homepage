@@ -8,8 +8,8 @@ module.exports = {
       { text: "博客", link: "/blog/" },
       { text: "随笔", link: "/writing/" },
       { text: "文摘", link: "/digest/" },
-      { text: "阅读", link: "https://weread.qq.com/" },
       { text: "标签", link: "/tag/" },
+      { text: "阅读", link: "https://weread.qq.com/" },
       { text: "时钟", link: "http://ykang2020.gitee.io/clock/" },
     ],
     directories: [
